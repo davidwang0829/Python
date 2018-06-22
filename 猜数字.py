@@ -1,7 +1,7 @@
-print("") # 欢迎界面
+print("让我们来玩个游戏") # 欢迎界面
 import random 
-answer = random.randint(1,100) # 生成随机数
-i = 10              #可以（10）次
+answer = random.randint(1,100) # 生成1-100随机数
+i = 10              #可以猜（10）次
 
 while i > 0:
 
