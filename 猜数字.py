@@ -1,3 +1,4 @@
+#编写一个程序 猜数字1-100 可以猜10次 有提示大了小了
 print("让我们来玩个游戏") # 欢迎界面
 import random 
 answer = random.randint(1,100) # 生成1-100随机数
